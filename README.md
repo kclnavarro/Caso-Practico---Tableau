@@ -15,7 +15,7 @@ fomentar un entorno laboral más inclusivo y diverso.
 ## Resultado del Análisis ✔
 Se analizaron 3 puntos que se consideraron principales dentro de los datos proporcionados
 
-# Análisis del Salario percibido por los empleados dependiendo de su Puesto
+### Análisis del Salario percibido por los empleados dependiendo de su Puesto
 
 ![2024-10-26](https://github.com/user-attachments/assets/d83f2463-956c-4097-8313-9ca4b003027d)
 
@@ -26,7 +26,7 @@ naranja, exceptuando los puestos de Production Technician I y Production Technic
 se observa que el salario percibido es mucho mayor que el de los demás puestos.
 
 
-# Performance Score segun el salario percibido y mostrando el Género del Empleado
+### Performance Score segun el salario percibido y mostrando el Género del Empleado
 
 ![2024-10-26 (1)](https://github.com/user-attachments/assets/d3892003-5a06-43d0-97a2-8e95ff3fec71)
 
@@ -40,7 +40,7 @@ cada uno de los géneros, sin embargo ambos géneros tienen un pico remarcado en
 performance score que cumplen plenamante con su trabajo. 
 
 
-# Recuendo de las Razones de Termino del Empleado 
+### Recuendo de las Razones de Termino del Empleado 
 ![2024-10-26 (2)](https://github.com/user-attachments/assets/74d367b8-f179-47a5-a0e4-723bb5bf207c)
 
 Se pudo analizar el Recuendo de las Razones de Termino del Empleado, sin embargo no ha habido muchos 
